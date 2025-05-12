@@ -1,7 +1,7 @@
 # Paper_list
 
 ## Survey
-+ [Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057)
++ Differentiable rendering: A survey[[arXiv2020](https://arxiv.org/abs/2006.12057)]
 + [A Brief Review on Differentiable Rendering: Recent Advances and Challenges](https://www.mdpi.com/2079-9292/13/17/3546)
 + [Neural volume rendering: Nerf and beyond](https://arxiv.org/abs/2101.05204)
 + [Neural fields in visual computing and beyond](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)
