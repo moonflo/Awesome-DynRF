@@ -2,3 +2,23 @@
 
 ## Survey
 + [Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057)
++ [A Brief Review on Differentiable Rendering: Recent Advances and Challenges](https://www.mdpi.com/2079-9292/13/17/3546)
++ [Neural volume rendering: Nerf and beyond](https://arxiv.org/abs/2101.05204)
++ [Neural fields in visual computing and beyond](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)
++ [Nerf: Neural radiance field in 3d vision, a comprehensive review](https://arxiv.org/abs/2210.00379)
++ [BeyondPixels: A comprehensive review of the evolution of neural radiance fields](https://ui.adsabs.harvard.edu/abs/2023arXiv230603000S/abstract)
++ [Neural fields in visual computing and beyond](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505?casa_token=UT1GrSX7MmUAAAAA:kDTLFn0BgaHcKryz1XBj953AA1Bp095JPXPcAjPrR5xqdMnG9PcAem00roSh7pq6mcbUh0NT8GBczQ)
++ [Neural radiance fields: Past, present, and future](https://arxiv.org/abs/2304.10050)
++ [A survey on 3d gaussian splatting](https://arxiv.org/abs/2401.03890)
++ [3d gaussian splatting as new era: A survey](https://ieeexplore.ieee.org/abstract/document/10521791/?casa_token=0QyGxTRXcuoAAAAA:lcs7VXV5u9xntc4wQtFBjAejlh5aAHHDboeQDN1aQu-SPdVgZRMB1341gfWlt7iKSB7N2Eg2moE)
++ [Recent advances in 3d gaussian splatting](https://link.springer.com/article/10.1007/s41095-024-0436-y)
++ [3d gaussian splatting: Survey, technologies, challenges, and opportunities](https://ieeexplore.ieee.org/abstract/document/10870258/?casa_token=sf77HC5Y85sAAAAA:2ukklYMHulxMaKfBV-AH9I0ZpOrnj8tcGv3cAZGp_5d5H7dWAw7yjjIy4RT1Ln5vG5Q0gr7e168)
++ [3d gaussian as a new vision era: A survey](https://ui.adsabs.harvard.edu/abs/2024arXiv240207181F/abstract)
++ [Gaussian splatting: 3d reconstruction and novel view synthesis, a review](https://ieeexplore.ieee.org/abstract/document/10545567/)
++ [Semantically-aware neural radiance fields for visual scene understanding: A comprehensive review](https://arxiv.org/abs/2402.11141)
++ [Neural Radiance Field in Autonomous Driving: A Survey](https://arxiv.org/abs/2404.13816)
++ [How nerfs and 3d gaussian splatting are reshaping slam: A survey](https://fabiotosi92.github.io/files/survey-slam.pdf)
++ [Neural radiance fields in the industrial and robotics domain: Applications, research opportunities and use cases](https://www.sciencedirect.com/science/article/pii/S0736584524000978?casa_token=IbEL6IFsBrcAAAAA:N1ijHI5IXgjmtYh0WVADDM4OBXoHsdAMhef9VZohHdghCTMo-8QBBfCvPgbASBFib8yr_ywZRg)
++ [NeRF in robotics: A survey](https://arxiv.org/abs/2405.01333)
++ [Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)
++ 
