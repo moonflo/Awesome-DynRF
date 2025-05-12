@@ -2,12 +2,11 @@
 
 ## Survey
 + Differentiable rendering: A survey[[arXiv2020](https://arxiv.org/abs/2006.12057)]
-+ [A Brief Review on Differentiable Rendering: Recent Advances and Challenges](https://www.mdpi.com/2079-9292/13/17/3546)
-+ [Neural volume rendering: Nerf and beyond](https://arxiv.org/abs/2101.05204)
-+ [Neural fields in visual computing and beyond](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)
++ A Brief Review on Differentiable Rendering: Recent Advances and Challenges[[Electronics2024](https://www.mdpi.com/2079-9292/13/17/3546)]
++ Neural volume rendering: Nerf and beyond[[arXiv2020](https://arxiv.org/abs/2101.05204)]
++ Neural fields in visual computing and beyond[[Computer Graphics Forum 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)]
 + [Nerf: Neural radiance field in 3d vision, a comprehensive review](https://arxiv.org/abs/2210.00379)
 + [BeyondPixels: A comprehensive review of the evolution of neural radiance fields](https://ui.adsabs.harvard.edu/abs/2023arXiv230603000S/abstract)
-+ [Neural fields in visual computing and beyond](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505?casa_token=UT1GrSX7MmUAAAAA:kDTLFn0BgaHcKryz1XBj953AA1Bp095JPXPcAjPrR5xqdMnG9PcAem00roSh7pq6mcbUh0NT8GBczQ)
 + [Neural radiance fields: Past, present, and future](https://arxiv.org/abs/2304.10050)
 + [A survey on 3d gaussian splatting](https://arxiv.org/abs/2401.03890)
 + [3d gaussian splatting as new era: A survey](https://ieeexplore.ieee.org/abstract/document/10521791/?casa_token=0QyGxTRXcuoAAAAA:lcs7VXV5u9xntc4wQtFBjAejlh5aAHHDboeQDN1aQu-SPdVgZRMB1341gfWlt7iKSB7N2Eg2moE)
