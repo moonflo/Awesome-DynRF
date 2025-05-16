@@ -6,8 +6,10 @@ Dynamic scene representation and reconstruction have undergone transformative ad
 
 # Framework
 [Survey](#survey)
+Dynamic Scene Reconstruction
++ [Reconstruction with Rigid Motion](#reconstruction-with-rigid-motion)
 
-## Survey
+# Survey
 ### perprint
 | **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
 |-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
@@ -24,7 +26,7 @@ Dynamic scene representation and reconstruction have undergone transformative ad
 |[NeRF in robotics: A survey](https://arxiv.org/abs/2405.01333)                                                                                     | arXiv2024 | | Survey |
 |[Neural Fields in Robotics: A Survey](https://arxiv.org/abs/2410.20220)                                                                            | arXiv2024 | | Survey |
 
-### Survey Paper
+### Paper
 | **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
 |-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
 |[Neural fields in visual computing and beyond](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)                      |Computer Graphics Forum 2022   | | Survey |
@@ -38,3 +40,84 @@ Dynamic scene representation and reconstruction have undergone transformative ad
 |[State of the Art in Dense Monocular Non-Rigid 3D Reconstruction](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14774)       | CGF 2023                  | | Survey |
 |[Neural radiance fields in the industrial and robotics domain: Applications, research opportunities and use cases](https://www.sciencedirect.com/science/article/pii/S0736584524000978?casa_token=IbEL6IFsBrcAAAAA:N1ijHI5IXgjmtYh0WVADDM4OBXoHsdAMhef9VZohHdghCTMo-8QBBfCvPgbASBFib8yr_ywZRg)           | RCIM 2024                 | | Survey |
 |[A Brief Review on Differentiable Rendering: Recent Advances and Challenges](https://www.mdpi.com/2079-9292/13/17/3546)            | Electronics 2024          | | Survey |
+
+# Reconstruction with Rigid Motion
+### perprint
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+### Paper
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+
+
+# Reconstruction with Articulated Motion
+## Human Body
+### perprint 
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+### Paper
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+
+## Hand
+### perprint
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+### Paper
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+
+
+## Animal
+### perprint
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+### Paper
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+
+## Other Objects
+### perprint
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+### Paper
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+
+# Reconstruction with Nor-rigid Motion
+## 4D Spacetime
+### perprint
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+
+### Paper
+| **Paper**                                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-----------------------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+
+## Canonical Space with Deformation Field
+## Frame-to-Frame Flow Field
+## Point Tracking
+## Factorization
+
+# Reconstructing with Hybrid Motion
