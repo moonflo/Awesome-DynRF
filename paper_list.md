@@ -5,7 +5,9 @@
 ## Survey
 
 ### perprint
-+ [Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057) [arXiv2020]
+| **Paper**                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+|[Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057)                                 |[arXiv2020]             |            |Survey      |    
 
 + Neural volume rendering: Nerf and beyond[[arXiv2020](https://arxiv.org/abs/2101.05204)]
 + Neural fields in visual computing and beyond[[Computer Graphics Forum 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)]
