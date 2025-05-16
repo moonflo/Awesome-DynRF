@@ -7,10 +7,10 @@
 ### perprint
 | **Paper**                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
 |-------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
-|[Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057)                                 |[arXiv2020]             |            |Survey      |    
+|[Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057)                                 |arXiv2020               |            |Survey      |    
+|[Neural volume rendering: Nerf and beyond](https://arxiv.org/abs/2101.05204)                           |arXiv2020               |            |Survey      |   
 
-+ Neural volume rendering: Nerf and beyond[[arXiv2020](https://arxiv.org/abs/2101.05204)]
-+ Neural fields in visual computing and beyond[[Computer Graphics Forum 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)]
+
 + Nerf: Neural radiance field in 3d vision, a comprehensive review[[arXiv2022](https://arxiv.org/abs/2210.00379)]
 + BeyondPixels: A comprehensive review of the evolution of neural radiance fields[[arXiv2023](https://ui.adsabs.harvard.edu/abs/2023arXiv230603000S/abstract)]
 + Neural radiance fields: Past, present, and future[[arXiv2023](https://arxiv.org/abs/2304.10050)]
@@ -33,3 +33,7 @@
 
 
 + A Brief Review on Differentiable Rendering: Recent Advances and Challenges[[Electronics2024](https://www.mdpi.com/2079-9292/13/17/3546)]
+
+| **Paper**                                                                                             | **Conference/Journal** |**Code**    |**Type**    |
+|-------------------------------------------------------------------------------------------------------|------------------------|------------|------------|
+|[Neural fields in visual computing and beyond](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)  |Computer Graphics Forum 2022   | |            |  
