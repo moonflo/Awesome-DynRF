@@ -3,8 +3,10 @@
 
 
 ## Survey
-+ Differentiable rendering: A survey[[arXiv2020](https://arxiv.org/abs/2006.12057)]
-+ A Brief Review on Differentiable Rendering: Recent Advances and Challenges[[Electronics2024](https://www.mdpi.com/2079-9292/13/17/3546)]
+
+### perprint
++ [Differentiable rendering: A survey](https://arxiv.org/abs/2006.12057) [arXiv2020]
+
 + Neural volume rendering: Nerf and beyond[[arXiv2020](https://arxiv.org/abs/2101.05204)]
 + Neural fields in visual computing and beyond[[Computer Graphics Forum 2022](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14505)]
 + Nerf: Neural radiance field in 3d vision, a comprehensive review[[arXiv2022](https://arxiv.org/abs/2210.00379)]
@@ -26,3 +28,6 @@
 + Benchmarking neural radiance fields for autonomous robots: An overview[[Engineering Applications of Artificial Intelligence 2025](https://www.sciencedirect.com/science/article/pii/S0952197624018438?casa_token=lUGEAcODULoAAAAA:RoeYzcwQpI4VUAsp6zAnrwWX7ipHVRyi3V1JsCl9JaKDAHQZdAiATK8sxLBzmtPLlVhyC57awT4)]
 + Recent Trends in 3D Reconstruction of General Non-Rigid Scenes[[Computer Graphics Forum. 2024](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.15062)]
 + State of the Art in Dense Monocular Non-Rigid 3D Reconstruction[[Computer Graphics Forum. 2023](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.14774)] 
+
+
++ A Brief Review on Differentiable Rendering: Recent Advances and Challenges[[Electronics2024](https://www.mdpi.com/2079-9292/13/17/3546)]
