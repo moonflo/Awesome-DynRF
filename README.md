@@ -6,11 +6,10 @@ Dynamic scene representation and reconstruction have undergone transformative ad
 
 # Framework
 [Survey](#survey)
-Dynamic Scene Reconstruction
-+ [Reconstruction with Rigid Motion](#reconstruction-with-rigid-motion)
-+ [Reconstruction with Articulated Motion](#reconstruction-with-articulated-motion)
-+ [Reconstruction with Nor-rigid Motion](#reconstruction-with-nor-rigid-motion)
-+ [Reconstruction with Hybrid Motion](#reconstructing-with-hybrid-motion)
+[Reconstruction with Rigid Motion](#reconstruction-with-rigid-motion)
+[Reconstruction with Articulated Motion](#reconstruction-with-articulated-motion)
+[Reconstruction with Nor-rigid Motion](#reconstruction-with-nor-rigid-motion)
+[Reconstruction with Hybrid Motion](#reconstructing-with-hybrid-motion)
 
 # Survey
 ### perprint
