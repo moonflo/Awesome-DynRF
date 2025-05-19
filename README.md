@@ -1,4 +1,4 @@
-# Dynamic-Radiation-Field-Paper-List
+# Awesome-DynRF
 Complete bibliographic list for Paper: "Advances in Radiance Field for Dynamic Scene: From Neural Field to Gaussian Field".
 
 # Abstract
